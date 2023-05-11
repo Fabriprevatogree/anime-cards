@@ -1,0 +1,43 @@
+* {
+   
+}
+body {
+    background-color: #ff7212;
+
+}
+header {
+    text-align: center;
+    height: 100px;
+    background-color: #0e1113;
+    color: #fff;
+}
+.container {
+    
+}
+
+.card {
+   margin: 15px;
+   border: 5px solid;
+   border-color: #fff;
+}
+.card-body {
+    height: 230px;
+}
+#card-1 {
+    background-color: #06dc7e;
+}
+#card-2 {
+    background-color: #ecc233;
+}
+#card-3 {
+    background-color: #127959;
+}
+#card-4 {
+    background-color: #e57be5;
+}
+#card-5 {
+    background-color: #23ad77;
+}
+#card-6 {
+    background-color: #ff8c63;
+}
