@@ -5,11 +5,13 @@ body {
     background-color: #ff7212;
 
 }
+
 header {
     text-align: center;
     height: 100px;
     background-color: #0e1113;
     color: #fff;
+
 }
 .container {
     
@@ -40,4 +42,30 @@ header {
 }
 #card-6 {
     background-color: #ff8c63;
+}
+#card-7 {
+    background-color: #e9365b;
+}
+#card-8 {
+    background-color: #eedd6f;
+}
+#card-9 {
+    background-color: #003861;
+    color: #fff;
+}
+#card-10 {
+    background-color: #ff8dc0;
+}
+#card-11 {
+    background-color: #a9b2bb;
+}
+#card-12 {
+    background-color: #1f1e20;
+    color: #fff;
+}
+footer {
+    text-align: center;
+    height: 100px;
+    background-color: #0e1113;
+    color: #fff;
 }
